@@ -9,10 +9,10 @@ def hello_world():
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Lamba Tests</title>
+        <title>BrowserStack</title>
     </head>
     <body>
-        <h1>Hello, <b style="color:orange">BrowserStack</b></h1>
+        <h1>Hello, <b style="color:orange">Nakul and Ritesh, founders of BrowserStack</b></h1>
         <h3>I am <span style="font-style: italic">Automation Support Engineer<span></h3>
         <h5 style="color:red;">I solve real problems</h5>
         <button class="link-button" onclick="location.href='https://github.com/VAxRAxD'">Go to Github</button>
